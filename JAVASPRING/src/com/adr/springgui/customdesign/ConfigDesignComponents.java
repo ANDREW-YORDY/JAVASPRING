@@ -1,7 +1,6 @@
 package com.adr.springgui.customdesign;
 
 import javax.swing.JFrame;
-import javax.swing.JPanel;
 import javax.swing.JButton;
 import javax.swing.JTextField;
 import javax.swing.border.LineBorder;

@@ -9,7 +9,7 @@ import java.awt.geom.RoundRectangle2D;
 
 public class RoundJTextField extends JTextField {
 
-    private int radius;
+    private final int radius;
 
     public RoundJTextField(int radius) {
         super();
